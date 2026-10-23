@@ -1,0 +1,6 @@
+allowed_program
+blocked_mkdir
+sysjail
+*.swp
+test_directory/
+
