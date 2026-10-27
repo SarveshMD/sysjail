@@ -1,5 +1,10 @@
-allowed_program
-blocked_mkdir
+compute_allowed
+compute_file_attempt
+filesystem_mutation
+filesystem_read
+network_allowed
+network_attempt
+
 sysjail
 *.swp
 test_directory/
